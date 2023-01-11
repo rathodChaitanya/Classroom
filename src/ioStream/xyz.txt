@@ -1,0 +1,3 @@
+  "
+  in FR and FW using transferTo we can copy file1 to file2 .
+syntax :- f1.transferTo(f2);
